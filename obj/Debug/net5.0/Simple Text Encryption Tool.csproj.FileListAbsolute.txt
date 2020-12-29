@@ -1,0 +1,16 @@
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/bin/Debug/net5.0/Simple Text Encryption Tool
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/bin/Debug/net5.0/Simple Text Encryption Tool.deps.json
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/bin/Debug/net5.0/Simple Text Encryption Tool.runtimeconfig.json
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/bin/Debug/net5.0/Simple Text Encryption Tool.runtimeconfig.dev.json
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/bin/Debug/net5.0/Simple Text Encryption Tool.dll
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/bin/Debug/net5.0/ref/Simple Text Encryption Tool.dll
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/bin/Debug/net5.0/Simple Text Encryption Tool.pdb
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/obj/Debug/net5.0/Simple Text Encryption Tool.csprojAssemblyReference.cache
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/obj/Debug/net5.0/Simple Text Encryption Tool.GeneratedMSBuildEditorConfig.editorconfig
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/obj/Debug/net5.0/Simple Text Encryption Tool.AssemblyInfoInputs.cache
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/obj/Debug/net5.0/Simple Text Encryption Tool.AssemblyInfo.cs
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/obj/Debug/net5.0/Simple Text Encryption Tool.csproj.CoreCompileInputs.cache
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/obj/Debug/net5.0/Simple Text Encryption Tool.dll
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/obj/Debug/net5.0/ref/Simple Text Encryption Tool.dll
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/obj/Debug/net5.0/Simple Text Encryption Tool.pdb
+/home/ryanmardock/Documents/Programming Projects/C#/Simple Text Encryption Tool/obj/Debug/net5.0/Simple Text Encryption Tool.genruntimeconfig.cache
